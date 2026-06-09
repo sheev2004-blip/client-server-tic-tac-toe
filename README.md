@@ -59,7 +59,9 @@ A mutex protects shared matchmaking data to prevent race conditions when multipl
 ## Project Structure
 
 server.c     - Server implementation
+
 client.c     - Client implementation
+
 Makefile     - Build automation
 
 ## How to Build
